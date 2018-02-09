@@ -1,0 +1,9 @@
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\bin\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.deps.json
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\bin\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.dll
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\bin\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.pdb
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\obj\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\obj\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\obj\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.AssemblyInfoInputs.cache
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\obj\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.AssemblyInfo.cs
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\obj\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.dll
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.TupleLib\obj\Debug\netstandard2.0\Chapter4.Tuples.TupleLib.pdb

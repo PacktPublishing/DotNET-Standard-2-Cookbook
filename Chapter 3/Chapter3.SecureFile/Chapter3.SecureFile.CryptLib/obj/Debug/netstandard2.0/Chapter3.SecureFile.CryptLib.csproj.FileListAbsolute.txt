@@ -1,0 +1,9 @@
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\bin\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.deps.json
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\bin\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.dll
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\bin\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.pdb
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\obj\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\obj\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\obj\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.AssemblyInfoInputs.cache
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\obj\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.AssemblyInfo.cs
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\obj\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.dll
+C:\Projects\Chapter3\Chapter3.SecureFile\Chapter3.SecureFile.CryptLib\obj\Debug\netstandard2.0\Chapter3.SecureFile.CryptLib.pdb

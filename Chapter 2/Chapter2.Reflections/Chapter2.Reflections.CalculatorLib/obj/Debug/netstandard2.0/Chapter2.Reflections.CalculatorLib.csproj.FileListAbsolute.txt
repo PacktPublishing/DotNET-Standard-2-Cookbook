@@ -1,0 +1,9 @@
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\bin\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.deps.json
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\bin\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.dll
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\bin\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.pdb
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\obj\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\obj\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\obj\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\obj\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.AssemblyInfo.cs
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\obj\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.dll
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Reflections\Chapter2.Reflections.CalculatorLib\obj\Debug\netstandard2.0\Chapter2.Reflections.CalculatorLib.pdb

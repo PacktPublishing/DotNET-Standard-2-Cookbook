@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter3.Compress.CompressLib", "Chapter3.Compress.CompressLib\Chapter3.Compress.CompressLib.csproj", "{B3FD7003-CBAB-4658-9A89-D8E4EAECC3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter3.Compress.ZipperWinApp", "Chapter3.Compress.ZipperWinApp\Chapter3.Compress.ZipperWinApp.csproj", "{03CA2518-8D0A-4F4C-BB1F-331AF0EFC9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FD7003-CBAB-4658-9A89-D8E4EAECC3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FD7003-CBAB-4658-9A89-D8E4EAECC3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FD7003-CBAB-4658-9A89-D8E4EAECC3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FD7003-CBAB-4658-9A89-D8E4EAECC3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CA2518-8D0A-4F4C-BB1F-331AF0EFC9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CA2518-8D0A-4F4C-BB1F-331AF0EFC9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CA2518-8D0A-4F4C-BB1F-331AF0EFC9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CA2518-8D0A-4F4C-BB1F-331AF0EFC9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3794C00-61C8-48D0-8825-1A22614B1528}
+	EndGlobalSection
+EndGlobal

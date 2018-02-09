@@ -1,0 +1,7 @@
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 1\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 1\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 1\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 1\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 1\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 1\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 1\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb

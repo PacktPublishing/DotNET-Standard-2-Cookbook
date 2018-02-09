@@ -1,0 +1,13 @@
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\bin\Debug\netcoreapp2.0\Chapter4.Tuples.TupleLib.dll
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\obj\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\obj\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\obj\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.AssemblyInfoInputs.cache
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\obj\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.AssemblyInfo.cs
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\bin\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.deps.json
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\bin\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.runtimeconfig.json
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\bin\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.runtimeconfig.dev.json
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\bin\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.dll
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\bin\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.pdb
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\bin\Debug\netcoreapp2.0\Chapter4.Tuples.TupleLib.pdb
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\obj\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.dll
+C:\Projects\Chapter4\Chapter4.Tuples\Chapter4.Tuples.CoreRazorWebApp\obj\Debug\netcoreapp2.0\Chapter4.Tuples.CoreRazorWebApp.pdb
