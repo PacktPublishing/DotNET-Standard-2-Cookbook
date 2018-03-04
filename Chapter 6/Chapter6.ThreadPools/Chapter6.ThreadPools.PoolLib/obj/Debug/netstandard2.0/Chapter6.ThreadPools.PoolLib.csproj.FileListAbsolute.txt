@@ -1,0 +1,9 @@
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\bin\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.deps.json
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\bin\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.dll
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\bin\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.pdb
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\obj\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\obj\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\obj\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.AssemblyInfoInputs.cache
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\obj\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.AssemblyInfo.cs
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\obj\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.dll
+C:\Projects\Chapter6\Chapter6.ThreadPools\Chapter6.ThreadPools.PoolLib\obj\Debug\netstandard2.0\Chapter6.ThreadPools.PoolLib.pdb

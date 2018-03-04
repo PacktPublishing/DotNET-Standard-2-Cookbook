@@ -1,0 +1,9 @@
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\bin\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.deps.json
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\bin\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.dll
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\bin\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.pdb
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\obj\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\obj\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\obj\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.AssemblyInfoInputs.cache
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\obj\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.AssemblyInfo.cs
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\obj\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.dll
+C:\Projects\Chapter6\Chapter6.Threads\Chapter6.Threads.ThreadLib\obj\Debug\netstandard2.0\Chapter6.Threads.ThreadLib.pdb
