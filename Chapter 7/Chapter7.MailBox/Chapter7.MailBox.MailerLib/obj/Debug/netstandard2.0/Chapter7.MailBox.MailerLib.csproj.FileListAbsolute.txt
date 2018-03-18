@@ -1,0 +1,9 @@
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\bin\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.deps.json
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\bin\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.dll
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\bin\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.pdb
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\obj\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\obj\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\obj\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.AssemblyInfoInputs.cache
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\obj\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.AssemblyInfo.cs
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\obj\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.dll
+C:\Projects\Chapter7\Chapter7.MailBox\Chapter7.MailBox.MailerLib\obj\Debug\netstandard2.0\Chapter7.MailBox.MailerLib.pdb
