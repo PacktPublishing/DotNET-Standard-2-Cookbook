@@ -1,0 +1,9 @@
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/bin/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.deps.json
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/bin/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.dll
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/bin/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.pdb
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/obj/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.csprojResolveAssemblyReference.cache
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/obj/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.csproj.CoreCompileInputs.cache
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/obj/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.AssemblyInfoInputs.cache
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/obj/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.AssemblyInfo.cs
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/obj/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.dll
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/obj/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.pdb

@@ -1,0 +1,14 @@
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/bin/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSApp.exe
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/bin/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSApp.pdb
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/optimized/
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSApp.csproj.CoreCompileInputs.cache
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSApp.exe
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSApp.pdb
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/obj/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSApp.csprojResolveAssemblyReference.cache
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/bin/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSLib.dll
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/bin/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSLib.pdb

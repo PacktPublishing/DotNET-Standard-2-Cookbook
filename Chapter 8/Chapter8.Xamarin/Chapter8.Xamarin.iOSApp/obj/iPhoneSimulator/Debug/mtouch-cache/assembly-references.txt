@@ -1,0 +1,30 @@
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSApp/bin/iPhoneSimulator/Debug/Chapter8.Xamarin.iOSApp.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Core.dll
+/Users/fiqriismail/Projects/PacktBook/Chapter 8/Chapter8.Xamarin/Chapter8.Xamarin.iOSLib/bin/Debug/netstandard2.0/Chapter8.Xamarin.iOSLib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/netstandard.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Data.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Transactions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Mono.Data.Tds.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.StackTrace.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Globalization.Extensions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.IO.Compression.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.IO.Compression.FileSystem.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Runtime.InteropServices.RuntimeInformation.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Runtime.Serialization.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.ServiceModel.Internals.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Runtime.Serialization.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Runtime.Serialization.Primitives.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Security.Cryptography.Algorithms.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Security.SecureString.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Web.Services.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XDocument.dll
