@@ -1,0 +1,9 @@
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/bin/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.deps.json
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/bin/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.dll
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/bin/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.pdb
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/obj/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.csprojResolveAssemblyReference.cache
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/obj/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.csproj.CoreCompileInputs.cache
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/obj/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.AssemblyInfoInputs.cache
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/obj/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.AssemblyInfo.cs
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/obj/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.dll
+/Users/fiqriismail/Projects/PacktBook/Chapter 9/Chapter9.Xamarin/Chapter9.Xamarin.AndroidLib/obj/Debug/netstandard2.0/Chapter9.Xamarin.AndroidLib.pdb
