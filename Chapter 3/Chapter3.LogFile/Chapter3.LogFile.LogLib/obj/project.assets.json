@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogLib/Chapter3.LogFile.LogLib.csproj",
+      "projectUniqueName": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/Chapter3.LogFile.LogLib.csproj",
       "projectName": "Chapter3.LogFile.LogLib",
-      "projectPath": "/Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogLib/Chapter3.LogFile.LogLib.csproj",
+      "projectPath": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/Chapter3.LogFile.LogLib.csproj",
       "packagesPath": "/Users/fiqriismail/.nuget/packages/",
-      "outputPath": "/Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogLib/obj/",
+      "outputPath": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

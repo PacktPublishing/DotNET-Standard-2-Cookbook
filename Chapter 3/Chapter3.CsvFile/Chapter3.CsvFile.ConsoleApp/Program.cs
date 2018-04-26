@@ -15,8 +15,7 @@ namespace Chapter3.CsvFile.ConsoleApp
                 var row = movie.Split(',');
                 
                 Console.WriteLine($"ID: {row[0]} Title : {row[1]} Year : {row[2]}");
-                Console.Write
-
+                
             }
         }
     }

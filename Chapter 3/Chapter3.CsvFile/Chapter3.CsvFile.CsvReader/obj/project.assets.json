@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.CsvReader/Chapter3.CsvFile.CsvReader.csproj",
+      "projectUniqueName": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.CsvReader/Chapter3.CsvFile.CsvReader.csproj",
       "projectName": "Chapter3.CsvFile.CsvReader",
-      "projectPath": "/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.CsvReader/Chapter3.CsvFile.CsvReader.csproj",
+      "projectPath": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.CsvReader/Chapter3.CsvFile.CsvReader.csproj",
       "packagesPath": "/Users/fiqriismail/.nuget/packages/",
-      "outputPath": "/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.CsvReader/obj/",
+      "outputPath": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.CsvReader/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

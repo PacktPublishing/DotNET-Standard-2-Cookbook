@@ -6,3 +6,11 @@
 /Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogLib/obj/Debug/netstandard2.0/Chapter3.LogFile.LogLib.AssemblyInfo.cs
 /Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogLib/obj/Debug/netstandard2.0/Chapter3.LogFile.LogLib.dll
 /Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogLib/obj/Debug/netstandard2.0/Chapter3.LogFile.LogLib.pdb
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/bin/Debug/netstandard2.0/Chapter3.LogFile.LogLib.deps.json
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/bin/Debug/netstandard2.0/Chapter3.LogFile.LogLib.dll
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/bin/Debug/netstandard2.0/Chapter3.LogFile.LogLib.pdb
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/obj/Debug/netstandard2.0/Chapter3.LogFile.LogLib.csproj.CoreCompileInputs.cache
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/obj/Debug/netstandard2.0/Chapter3.LogFile.LogLib.AssemblyInfoInputs.cache
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/obj/Debug/netstandard2.0/Chapter3.LogFile.LogLib.AssemblyInfo.cs
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/obj/Debug/netstandard2.0/Chapter3.LogFile.LogLib.dll
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/obj/Debug/netstandard2.0/Chapter3.LogFile.LogLib.pdb

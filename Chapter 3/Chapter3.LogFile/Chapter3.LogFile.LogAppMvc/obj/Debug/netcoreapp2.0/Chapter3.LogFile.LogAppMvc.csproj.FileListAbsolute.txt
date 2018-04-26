@@ -10,3 +10,15 @@
 /Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogAppMvc/obj/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.pdb
 /Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogLib.dll
 /Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogLib.pdb
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.deps.json
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.runtimeconfig.json
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.runtimeconfig.dev.json
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.dll
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.pdb
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogLib.dll
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/bin/Debug/netcoreapp2.0/Chapter3.LogFile.LogLib.pdb
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/obj/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.csproj.CoreCompileInputs.cache
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/obj/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.AssemblyInfoInputs.cache
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/obj/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.AssemblyInfo.cs
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/obj/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.dll
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/obj/Debug/netcoreapp2.0/Chapter3.LogFile.LogAppMvc.pdb

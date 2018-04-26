@@ -12557,11 +12557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogAppMvc/Chapter3.LogFile.LogAppMvc.csproj",
+      "projectUniqueName": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/Chapter3.LogFile.LogAppMvc.csproj",
       "projectName": "Chapter3.LogFile.LogAppMvc",
-      "projectPath": "/Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogAppMvc/Chapter3.LogFile.LogAppMvc.csproj",
+      "projectPath": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/Chapter3.LogFile.LogAppMvc.csproj",
       "packagesPath": "/Users/fiqriismail/.nuget/packages/",
-      "outputPath": "/Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogAppMvc/obj/",
+      "outputPath": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogAppMvc/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -12578,8 +12578,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogLib/Chapter3.LogFile.LogLib.csproj": {
-              "projectPath": "/Users/fiqriismail/Projects/dotnet/Chapter3/Chapter3.LogFile.LogLib/Chapter3.LogFile.LogLib.csproj"
+            "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/Chapter3.LogFile.LogLib.csproj": {
+              "projectPath": "/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.LogFile/Chapter3.LogFile.LogLib/Chapter3.LogFile.LogLib.csproj"
             }
           }
         }

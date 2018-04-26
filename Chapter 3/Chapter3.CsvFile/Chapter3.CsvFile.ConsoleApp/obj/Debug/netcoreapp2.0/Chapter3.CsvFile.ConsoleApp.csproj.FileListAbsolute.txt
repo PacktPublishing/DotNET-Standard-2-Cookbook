@@ -1,12 +1,12 @@
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.deps.json
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.runtimeconfig.json
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.runtimeconfig.dev.json
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.dll
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.pdb
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.csproj.CoreCompileInputs.cache
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.AssemblyInfoInputs.cache
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.AssemblyInfo.cs
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.dll
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.pdb
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.CsvReader.dll
-/Users/fiqriismail/Projects/PacktBook/Chapter3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.CsvReader.pdb
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.deps.json
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.runtimeconfig.json
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.runtimeconfig.dev.json
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.dll
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.pdb
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.AssemblyInfoInputs.cache
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.AssemblyInfo.cs
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.dll
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/obj/Debug/netcoreapp2.0/Chapter3.CsvFile.ConsoleApp.pdb
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.CsvReader.dll
+/Users/fiqriismail/Repositories/PacktBook/Chapter 3/Chapter3.CsvFile/Chapter3.CsvFile.ConsoleApp/bin/Debug/netcoreapp2.0/Chapter3.CsvFile.CsvReader.pdb
