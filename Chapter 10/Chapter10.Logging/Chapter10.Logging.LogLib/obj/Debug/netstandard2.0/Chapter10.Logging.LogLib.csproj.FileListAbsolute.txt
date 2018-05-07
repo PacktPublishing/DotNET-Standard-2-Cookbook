@@ -1,9 +1,0 @@
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\bin\Debug\netstandard2.0\Chapter10.Logging.LogLib.deps.json
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\bin\Debug\netstandard2.0\Chapter10.Logging.LogLib.dll
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\bin\Debug\netstandard2.0\Chapter10.Logging.LogLib.pdb
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\obj\Debug\netstandard2.0\Chapter10.Logging.LogLib.csprojResolveAssemblyReference.cache
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\obj\Debug\netstandard2.0\Chapter10.Logging.LogLib.csproj.CoreCompileInputs.cache
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\obj\Debug\netstandard2.0\Chapter10.Logging.LogLib.AssemblyInfoInputs.cache
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\obj\Debug\netstandard2.0\Chapter10.Logging.LogLib.AssemblyInfo.cs
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\obj\Debug\netstandard2.0\Chapter10.Logging.LogLib.dll
-C:\Projects\Chapter10\Chapter10.Logging\Chapter10.Logging.LogLib\obj\Debug\netstandard2.0\Chapter10.Logging.LogLib.pdb

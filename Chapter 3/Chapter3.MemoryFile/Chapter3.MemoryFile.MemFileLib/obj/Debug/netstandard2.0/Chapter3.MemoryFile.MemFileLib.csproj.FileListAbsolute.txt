@@ -1,9 +1,0 @@
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\bin\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.deps.json
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\bin\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.dll
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\bin\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.pdb
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\obj\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.csprojResolveAssemblyReference.cache
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\obj\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.csproj.CoreCompileInputs.cache
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\obj\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.AssemblyInfoInputs.cache
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\obj\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.AssemblyInfo.cs
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\obj\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.dll
-C:\Projects\Chapter3\Chapter3.MemoryFile\Chapter3.MemoryFile.MemFileLib\obj\Debug\netstandard2.0\Chapter3.MemoryFile.MemFileLib.pdb

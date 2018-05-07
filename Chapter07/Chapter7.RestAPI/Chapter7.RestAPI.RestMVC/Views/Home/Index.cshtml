@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@{
+    var post = (Dictionary<string, string>)ViewBag.Post;
+}
+
+@foreach (var item in post)
+{
+    <p>
+        <strong>@item.Key</strong> : @item.Value
+    </p>
+}
+

@@ -1,9 +1,0 @@
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\bin\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.deps.json
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\bin\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.dll
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\bin\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.pdb
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\obj\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.csprojResolveAssemblyReference.cache
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\obj\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.csproj.CoreCompileInputs.cache
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\obj\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.AssemblyInfoInputs.cache
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\obj\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.AssemblyInfo.cs
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\obj\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.dll
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Collections\Chapter2.Collections.CollectionsLib\obj\Debug\netstandard2.0\Chapter2.Collections.CollectionsLib.pdb

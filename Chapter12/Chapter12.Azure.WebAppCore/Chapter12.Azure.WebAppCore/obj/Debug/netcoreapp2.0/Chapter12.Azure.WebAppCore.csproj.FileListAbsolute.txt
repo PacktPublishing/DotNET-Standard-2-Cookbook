@@ -1,0 +1,11 @@
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\bin\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.deps.json
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\bin\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.runtimeconfig.json
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\bin\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.runtimeconfig.dev.json
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\bin\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.dll
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\obj\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\obj\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\obj\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.AssemblyInfoInputs.cache
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\obj\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.AssemblyInfo.cs
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\bin\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.pdb
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\obj\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.dll
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore\obj\Debug\netcoreapp2.0\Chapter12.Azure.WebAppCore.pdb

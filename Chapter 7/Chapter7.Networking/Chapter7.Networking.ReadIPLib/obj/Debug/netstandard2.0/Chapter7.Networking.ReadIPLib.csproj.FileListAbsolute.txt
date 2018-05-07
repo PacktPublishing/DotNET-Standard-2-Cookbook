@@ -1,9 +1,0 @@
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\bin\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.deps.json
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\bin\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.dll
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\bin\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.pdb
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\obj\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.csprojResolveAssemblyReference.cache
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\obj\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.csproj.CoreCompileInputs.cache
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\obj\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.AssemblyInfoInputs.cache
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\obj\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.AssemblyInfo.cs
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\obj\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.dll
-C:\Projects\Chapter7\Chapter7.Networking\Chapter7.Networking.ReadIPLib\obj\Debug\netstandard2.0\Chapter7.Networking.ReadIPLib.pdb

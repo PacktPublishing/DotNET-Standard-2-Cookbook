@@ -1,9 +1,0 @@
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\bin\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.deps.json
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\bin\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.dll
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\bin\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.pdb
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\obj\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.csprojResolveAssemblyReference.cache
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\obj\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.csproj.CoreCompileInputs.cache
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\obj\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.AssemblyInfoInputs.cache
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\obj\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.AssemblyInfo.cs
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\obj\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.dll
-C:\Projects\Chapter7\Chapter7.RestAPI\Chapter7.RestAPI.RestLib\obj\Debug\netstandard2.0\Chapter7.RestAPI.RestLib.pdb

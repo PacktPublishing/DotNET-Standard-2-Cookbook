@@ -1,0 +1,13 @@
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\bin\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.deps.json
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\bin\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.runtimeconfig.json
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\bin\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.runtimeconfig.dev.json
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\bin\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.dll
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\bin\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.pdb
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\bin\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlLinqLib.dll
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\bin\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlLinqLib.pdb
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\obj\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\obj\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\obj\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.AssemblyInfoInputs.cache
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\obj\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.AssemblyInfo.cs
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\obj\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.dll
+C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlCore\obj\Debug\netcoreapp2.0\Chapter5.XmlLinq.XmlCore.pdb

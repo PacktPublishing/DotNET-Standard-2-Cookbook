@@ -1,0 +1,8 @@
+4/3/2018 8:19:09 PM Log Message: Constructor Called 
+4/3/2018 8:19:09 PM Log Message: Method 1 Called 
+4/3/2018 8:19:09 PM Log Message: Method 2 Called 
+4/3/2018 8:19:09 PM Log Message: Method 3 Called 
+4/3/2018 8:48:41 PM Log Message: Constructor Called 
+4/3/2018 8:48:41 PM Log Message: Method 1 Called 
+4/3/2018 8:48:41 PM Log Message: Method 2 Called 
+4/3/2018 8:48:41 PM Log Message: Method 3 Called 

@@ -1,9 +1,0 @@
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\bin\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.deps.json
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\bin\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.dll
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\bin\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.pdb
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\obj\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.csprojResolveAssemblyReference.cache
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\obj\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.csproj.CoreCompileInputs.cache
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\obj\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.AssemblyInfoInputs.cache
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\obj\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.AssemblyInfo.cs
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\obj\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.dll
-C:\Projects\Chapter5\Chapter5.XmlLinq\Chapter5.XmlLinq.XmlLinqLib\obj\Debug\netstandard2.0\Chapter5.XmlLinq.XmlLinqLib.pdb

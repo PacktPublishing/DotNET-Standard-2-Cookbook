@@ -1,9 +1,0 @@
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\bin\Debug\netstandard2.0\Chapter4.Functions.FuncLib.deps.json
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\bin\Debug\netstandard2.0\Chapter4.Functions.FuncLib.dll
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\bin\Debug\netstandard2.0\Chapter4.Functions.FuncLib.pdb
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\obj\Debug\netstandard2.0\Chapter4.Functions.FuncLib.csprojResolveAssemblyReference.cache
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\obj\Debug\netstandard2.0\Chapter4.Functions.FuncLib.csproj.CoreCompileInputs.cache
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\obj\Debug\netstandard2.0\Chapter4.Functions.FuncLib.AssemblyInfoInputs.cache
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\obj\Debug\netstandard2.0\Chapter4.Functions.FuncLib.AssemblyInfo.cs
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\obj\Debug\netstandard2.0\Chapter4.Functions.FuncLib.dll
-C:\Projects\Chapter4\Chapter4.Functions\Chapter4.Functions.FuncLib\obj\Debug\netstandard2.0\Chapter4.Functions.FuncLib.pdb

@@ -1,0 +1,9 @@
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\bin\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.deps.json
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\bin\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.dll
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\bin\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.pdb
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\obj\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\obj\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\obj\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.AssemblyInfoInputs.cache
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\obj\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.AssemblyInfo.cs
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\obj\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.dll
+C:\Projects\Chapter6\Chapter6.AsyncTasks\Chapter6.AsyncTasks.AsyncLib\obj\Debug\netstandard2.0\Chapter6.AsyncTasks.AsyncLib.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter2.Primitives.PrimitiveLib", "Chapter2.Primitives.PrimitiveLib\Chapter2.Primitives.PrimitiveLib.csproj", "{32A2790B-6207-4074-88F9-E454EB6C3F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter2.Primitives.PrimitivesConsole", "Chapter2.Primitives.PrimitivesConsole\Chapter2.Primitives.PrimitivesConsole.csproj", "{0DAC3B7E-B9F4-4457-9D38-AEF96D099B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A2790B-6207-4074-88F9-E454EB6C3F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A2790B-6207-4074-88F9-E454EB6C3F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A2790B-6207-4074-88F9-E454EB6C3F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A2790B-6207-4074-88F9-E454EB6C3F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAC3B7E-B9F4-4457-9D38-AEF96D099B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAC3B7E-B9F4-4457-9D38-AEF96D099B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAC3B7E-B9F4-4457-9D38-AEF96D099B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAC3B7E-B9F4-4457-9D38-AEF96D099B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A30DD77-4C49-4268-833B-B9EED9B13FFF}
+	EndGlobalSection
+EndGlobal

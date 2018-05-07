@@ -1,0 +1,5 @@
+C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Chapter12.Azure.WebAppCore
+--content-root=C:\Projects\Chapter12\Chapter12.Azure.WebAppCore\Chapter12.Azure.WebAppCore
+--file=

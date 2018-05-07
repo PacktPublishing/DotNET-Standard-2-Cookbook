@@ -1,9 +1,0 @@
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\bin\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.deps.json
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\bin\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.dll
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\bin\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.pdb
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\obj\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.csprojResolveAssemblyReference.cache
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\obj\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.csproj.CoreCompileInputs.cache
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\obj\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.AssemblyInfoInputs.cache
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\obj\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.AssemblyInfo.cs
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\obj\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.dll
-C:\Users\afi\Documents\Visual Studio 2017\.NET Standard 2.0 Cook Book\Chapter 2\Chapter2.Linq\Chapter2.Linq.QueriesLib\obj\Debug\netstandard2.0\Chapter2.Linq.QueriesLib.pdb

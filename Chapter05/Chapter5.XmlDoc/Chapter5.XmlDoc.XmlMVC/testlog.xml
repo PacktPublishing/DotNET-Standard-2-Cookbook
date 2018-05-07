@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Log>
+  <LogEntry>
+    <LogDate>2/18/2018 1:03:37 PM</LogDate>
+    <Message>Start at the Index() method</Message>
+  </LogEntry>
+  <LogEntry>
+    <LogDate>2/18/2018 1:03:37 PM</LogDate>
+    <Message>Another log entry here</Message>
+  </LogEntry>
+  <LogEntry>
+    <LogDate>2/18/2018 1:03:37 PM</LogDate>
+    <Message>Before the return statement</Message>
+  </LogEntry>
+</Log>

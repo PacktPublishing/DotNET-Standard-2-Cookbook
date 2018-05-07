@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4.Tuples.TupleLib", "Chapter4.Tuples.TupleLib\Chapter4.Tuples.TupleLib.csproj", "{0200E913-25D9-4F91-9338-465545ADD312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4.Tuples.CoreRazorWebApp", "Chapter4.Tuples.CoreRazorWebApp\Chapter4.Tuples.CoreRazorWebApp.csproj", "{390F0084-BD38-434F-8566-8DA62EE1DC85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0200E913-25D9-4F91-9338-465545ADD312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0200E913-25D9-4F91-9338-465545ADD312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0200E913-25D9-4F91-9338-465545ADD312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0200E913-25D9-4F91-9338-465545ADD312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390F0084-BD38-434F-8566-8DA62EE1DC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390F0084-BD38-434F-8566-8DA62EE1DC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390F0084-BD38-434F-8566-8DA62EE1DC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390F0084-BD38-434F-8566-8DA62EE1DC85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD02E174-B0F0-438F-98C1-97FD8DAE5891}
+	EndGlobalSection
+EndGlobal

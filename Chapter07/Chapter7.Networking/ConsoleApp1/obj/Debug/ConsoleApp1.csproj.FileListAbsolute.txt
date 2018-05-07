@@ -1,0 +1,7 @@
+C:\Projects\Chapter7\Chapter7.Networking\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Projects\Chapter7\Chapter7.Networking\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Projects\Chapter7\Chapter7.Networking\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Projects\Chapter7\Chapter7.Networking\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter7\Chapter7.Networking\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter7\Chapter7.Networking\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Projects\Chapter7\Chapter7.Networking\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

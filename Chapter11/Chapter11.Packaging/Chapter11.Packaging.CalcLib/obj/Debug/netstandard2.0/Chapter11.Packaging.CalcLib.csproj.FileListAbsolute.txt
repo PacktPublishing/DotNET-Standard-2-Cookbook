@@ -1,0 +1,9 @@
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\bin\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.deps.json
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\bin\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.dll
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\bin\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.pdb
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\obj\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.csprojResolveAssemblyReference.cache
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\obj\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\obj\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.AssemblyInfoInputs.cache
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\obj\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.AssemblyInfo.cs
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\obj\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.dll
+C:\Users\fiqriismail\source\repos\Chapter11.Packaging\Chapter11.Packaging.CalcLib\obj\Debug\netstandard2.0\Chapter11.Packaging.CalcLib.pdb

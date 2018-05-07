@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter7.RestAPI.RestLib", "Chapter7.RestAPI.RestLib\Chapter7.RestAPI.RestLib.csproj", "{8D471D5B-4E78-40D4-A30C-AC24008ECBF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter7.RestAPI.RestMVC", "Chapter7.RestAPI.RestMVC\Chapter7.RestAPI.RestMVC.csproj", "{96080EAF-DBCE-4BA2-9470-CF42FB725E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D471D5B-4E78-40D4-A30C-AC24008ECBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D471D5B-4E78-40D4-A30C-AC24008ECBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D471D5B-4E78-40D4-A30C-AC24008ECBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D471D5B-4E78-40D4-A30C-AC24008ECBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96080EAF-DBCE-4BA2-9470-CF42FB725E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96080EAF-DBCE-4BA2-9470-CF42FB725E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96080EAF-DBCE-4BA2-9470-CF42FB725E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96080EAF-DBCE-4BA2-9470-CF42FB725E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA14C29C-70C7-46DF-84A0-A958EEC3545C}
+	EndGlobalSection
+EndGlobal

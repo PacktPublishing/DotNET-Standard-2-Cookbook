@@ -1,9 +1,0 @@
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\bin\Debug\netstandard2.0\Chapter3.Compress.CompressLib.deps.json
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\bin\Debug\netstandard2.0\Chapter3.Compress.CompressLib.dll
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\bin\Debug\netstandard2.0\Chapter3.Compress.CompressLib.pdb
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\obj\Debug\netstandard2.0\Chapter3.Compress.CompressLib.csprojResolveAssemblyReference.cache
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\obj\Debug\netstandard2.0\Chapter3.Compress.CompressLib.csproj.CoreCompileInputs.cache
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\obj\Debug\netstandard2.0\Chapter3.Compress.CompressLib.AssemblyInfoInputs.cache
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\obj\Debug\netstandard2.0\Chapter3.Compress.CompressLib.AssemblyInfo.cs
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\obj\Debug\netstandard2.0\Chapter3.Compress.CompressLib.dll
-C:\Projects\Chapter3\Chapter3.Compress\Chapter3.Compress.CompressLib\obj\Debug\netstandard2.0\Chapter3.Compress.CompressLib.pdb

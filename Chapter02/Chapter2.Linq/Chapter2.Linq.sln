@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter2.Linq.QueriesLib", "Chapter2.Linq.QueriesLib\Chapter2.Linq.QueriesLib.csproj", "{A05B9772-554A-432B-80EC-697401CAED8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter2.Linq.QueriesMVC", "Chapter2.Linq.QueriesMVC\Chapter2.Linq.QueriesMVC.csproj", "{C152B7A9-2A2E-4F16-9F79-4708E69FCE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05B9772-554A-432B-80EC-697401CAED8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05B9772-554A-432B-80EC-697401CAED8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05B9772-554A-432B-80EC-697401CAED8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05B9772-554A-432B-80EC-697401CAED8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C152B7A9-2A2E-4F16-9F79-4708E69FCE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C152B7A9-2A2E-4F16-9F79-4708E69FCE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C152B7A9-2A2E-4F16-9F79-4708E69FCE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C152B7A9-2A2E-4F16-9F79-4708E69FCE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37693C60-412E-4BB8-A947-4CC65A4568E0}
+	EndGlobalSection
+EndGlobal

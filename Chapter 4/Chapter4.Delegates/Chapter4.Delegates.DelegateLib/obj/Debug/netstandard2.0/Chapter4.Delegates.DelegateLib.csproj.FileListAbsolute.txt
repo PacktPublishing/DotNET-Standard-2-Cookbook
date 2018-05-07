@@ -1,9 +1,0 @@
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\bin\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.deps.json
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\bin\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.dll
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\bin\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.pdb
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\obj\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.csprojResolveAssemblyReference.cache
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\obj\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.csproj.CoreCompileInputs.cache
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\obj\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.AssemblyInfoInputs.cache
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\obj\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.AssemblyInfo.cs
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\obj\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.dll
-C:\Projects\Chapter4\Chapter4.Delegates\Chapter4.Delegates.DelegateLib\obj\Debug\netstandard2.0\Chapter4.Delegates.DelegateLib.pdb
