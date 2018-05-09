@@ -10,8 +10,6 @@ By the end of this book, you will have gain the ability to expand your current w
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-
-
 The code will look like the following:
 ```
 public void WriteLog(string message)
@@ -23,6 +21,9 @@ logFile.WriteLine($"{DateTime.Now} Log Message: {message} ");
 This book assumes that readers have basic knowledge of C#. Also, it assumes basic knowledge of using Visual Studio, installing packages using NuGet, and referencing libraries within projects from other projects.
 
 Basic knowledge of using command-line tools such as bash on Ubuntu and terminal in macOS will be an added advantage but not a must.
+## Code in Action
+Click on the following link to see the workings of these files:
+https://goo.gl/epSN1B
 
 ## Related Products
 * [ASP.NET Core MVC 2.0 Cookbook](https://www.packtpub.com/application-development/aspnet-core-mvc-20-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785886751)
@@ -31,5 +32,3 @@ Basic knowledge of using command-line tools such as bash on Ubuntu and terminal 
 
 * [.NET Core 2.0 By Example](https://www.packtpub.com/application-development/net-core-20-example?utm_source=github&utm_medium=repository&utm_campaign=9781788395090)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
